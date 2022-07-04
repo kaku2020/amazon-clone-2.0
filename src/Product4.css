@@ -1,0 +1,42 @@
+.product3{
+    z-index: 11;
+    background: #fff;
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    max-height: 280px;
+    min-width: 1400px;
+    margin: 10px;
+    padding: 10px 20px;
+    align-items: center;
+    /* flex: 1 0 100%; */
+
+}
+
+.product3__heading{
+    display:flex;
+}
+
+.product3__multiItemCarousel{
+    width: 100%;
+   max-height: 240px;
+   height: 240px;
+   
+}
+
+.product3__headingLineTwo{
+    margin-left: 20px;
+    margin-top: 12.4px;
+    font-family: Arial,  sans-serif;
+    font-size: 14px;
+    color: #007185;
+    font-weight: 300;
+
+}
+.product3__headingLineOne{
+    font-size: 21px;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    margin-top: 5px;
+    
+}
